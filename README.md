@@ -14,7 +14,7 @@ These instructions will get you a copy of the project up and running on your loc
 [![Generic badge](https://img.shields.io/badge/flask-yellow.svg)](https://flask.palletsprojects.com/en/1.1.x/)
 [![Generic badge](https://img.shields.io/badge/streamlit-black.svg)](https://streamlit.io)
 [![Generic badge](https://img.shields.io/badge/matplotlib-green.svg)](https://matplotlib.org)
-[![Generic badge](https://img.shields.io/badge/requests-green.svg)](https://pypi.org/project/requests/)
+[![Generic badge](https://img.shields.io/badge/requests-white.svg)](https://pypi.org/project/requests/)
 
 ### Installing
 Install python from this link according to your system: 
@@ -25,4 +25,8 @@ pip3 install numpy tensorflow flask streamlit matplotlib requests
 
 ```
 
+## How to run?
+Clone the repository in your local machine and open the folder in 2 terminals. In the first one type "python3 ml_server.py" and in the second one type "streamlit run app.py" . This will run your model in your web browser.  
 
+  
+Feel free to play with the model code in /notebook. Adios!
